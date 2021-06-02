@@ -17,7 +17,7 @@
   
 </p>
 
-## ❓ Why
+## ❓ Why ❓ 
 
 When you delete a file using the `rm` command or `fs.unlink` in node, it only remove direct pointers to the data disk sectors and make the data recovery possible with common software tools.
 
